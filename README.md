@@ -1,0 +1,1 @@
+The intended purpose of this project was to in the main analyse and categorize exoplanetary data in order to asess habitability. There are a variety of plots and notes in order to aid with understanding.
